@@ -1,0 +1,28 @@
+{
+  "name": "koda-b7-git",
+  "version": "1.0.0",
+  "description": "sapi mengucapkan qoutes",
+  "keywords": [
+    "[cow]",
+    "[quotes]"
+  ],
+  "homepage": "https://github.com/rivando-al-rasyid/koda-b7-git#readme",
+  "bugs": {
+    "url": "https://github.com/rivando-al-rasyid/koda-b7-git/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivando-al-rasyid/koda-b7-git.git"
+  },
+  "license": "ISC",
+  "author": "van",
+  "type": "module",
+  "main": "cowSayQuotes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cowsayjs": "^2.0.0",
+    "node-quotegen": "^0.0.2"
+  }
+}
