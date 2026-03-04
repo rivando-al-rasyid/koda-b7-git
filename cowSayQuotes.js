@@ -4,5 +4,8 @@ import { getQuote } from "node-quotegen";
 
 const quote = getQuote();
 
-console.log(cowsay(`${quote}`));
+const motivational = getQuote("motivational");
+
+
+console.log(cowsay(`${motivational}`));
 

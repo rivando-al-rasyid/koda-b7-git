@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "cowsayjs": "^2.0.0",
+    "inspirational-quotes": "^2.0.1",
     "node-quotegen": "^0.0.2"
   }
 }
